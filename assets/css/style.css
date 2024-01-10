@@ -10,6 +10,7 @@ body {
 
 .navbar {
     background-color: #61787F;
+    justify-content: center;
 }
 
 .logo {
@@ -24,3 +25,6 @@ body {
     text-decoration: none;
     color: white;
 } 
+.shop {
+    justify-content: end;
+}
