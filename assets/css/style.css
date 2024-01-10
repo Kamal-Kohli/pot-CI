@@ -33,3 +33,8 @@ body {
 .shop {
     justify-content: end;
 }
+
+.carousel {
+    padding-top: 5px;
+    width: auto;
+}
