@@ -4,16 +4,23 @@ body {
     padding: 0;
 }
 
+
+
+/* Navbar */
+
+.navbar {
+    background-color: #61787F;
+}
+
 .logo {
     width: 100px;
 }
 
-/* Navbar */
-
-.navbar-container {
-    background-color: #587780;
-    padding: 10px 20px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+.slogan {
+    width: 250px;
 }
+
+.nav-link {
+    text-decoration: none;
+    color: white;
+} 
