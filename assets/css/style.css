@@ -4,8 +4,6 @@ body {
     padding: 0;
 }
 
-
-
 /* Navbar */
 
 .navbar {
@@ -22,19 +20,19 @@ body {
 }
 
 .nav-item {
-    justify-content: center; 
-    padding: 5px; 
+    justify-content: center;
+    padding: 5px;
 }
 
 .nav-link {
     text-decoration: none;
     color: white;
-} 
+}
+
 .shop {
     justify-content: end;
 }
 
-.carousel {
-    padding-top: 5px;
-    width: auto;
-}
+
+/* Carousel */
+.carousel-caption {}
