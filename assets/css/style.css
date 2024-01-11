@@ -35,6 +35,9 @@ body {
 
 
 /* Carousel */
-.carousel-caption {}
 
 /* about */
+
+.about {
+    color: #61787F;
+}
