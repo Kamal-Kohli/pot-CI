@@ -2,7 +2,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: aliceblue;
+    background-color: #F2F1F0;
 }
 
 /* Navbar */
@@ -27,7 +27,7 @@ body {
 
 .nav-link {
     text-decoration: none;
-    color: white;
+    color: #F2F1F0;
 }
 
 .shop {
@@ -54,17 +54,14 @@ h2 {
 }
 
 .title {
-    color: aliceblue;
+    color: #61787F;
 }
 
 .hr {
-    background-color: aliceblue;
+    background-color: #F2F1F0;
     margin-bottom: 50px;
 }
 
-.backcolor {
-    background-color: #61787F;
-}
 
 /* footer */
 .footer {
@@ -73,7 +70,7 @@ h2 {
     text-align: center;
     bottom: 0;
     width: 100%;
-    color: aliceblue;
+    color: #F2F1F0;
     text-decoration: none;
 }
 
@@ -96,11 +93,6 @@ h2 {
 }
 
 /* Review */
-
-.title1 {
-    color: #61787F;
-}
-
 .media-body {
     padding-bottom: 50px;
 }
