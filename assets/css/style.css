@@ -2,6 +2,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     margin: 0;
     padding: 0;
+    background-color: aliceblue;
 }
 
 /* Navbar */
@@ -51,13 +52,16 @@ h2 {
     height: 100%;
     width: 100%;
 }
+
 .title {
     color: aliceblue;
 }
+
 .hr {
     background-color: aliceblue;
     margin-bottom: 50px;
 }
+
 .backcolor {
     background-color: #61787F;
 }
@@ -73,6 +77,7 @@ h2 {
     text-decoration: none;
 }
 
+/* footer */
 .social-icons {
     position: fixed;
     top: 50%;
@@ -88,4 +93,14 @@ h2 {
     color: black;
     text-align: center;
     text-decoration: none;
+}
+
+/* Review */
+
+.title1 {
+    color: #61787F;
+}
+
+.media-body {
+    padding-bottom: 50px;
 }
