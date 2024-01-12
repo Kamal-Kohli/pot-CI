@@ -45,3 +45,8 @@ h2 {
 .img-responsive {
     width: 100%;
 }
+
+/* courses */
+.card {
+    height: 100%;
+}
