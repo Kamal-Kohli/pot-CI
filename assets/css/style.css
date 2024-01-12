@@ -49,4 +49,25 @@ h2 {
 /* courses */
 .card {
     height: 100%;
+    width: 100%;
+}
+.title {
+    color: aliceblue;
+}
+.hr {
+    background-color: aliceblue;
+    margin-bottom: 50px;
+}
+.backcolor {
+    background-color: #61787F;
+}
+
+/* footer */
+.footer {
+    background-color: #61787F;
+    padding: 20px 0;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
