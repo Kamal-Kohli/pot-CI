@@ -38,6 +38,10 @@ body {
 
 /* about */
 
-.about {
+h2 {
     color: #61787F;
+}
+
+.img-responsive {
+    width: 100%;
 }
